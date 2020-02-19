@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "created_at": "2019-10-15T05:28:25.593Z",
+      "login": "oleg@demo.ru",
+      "password": "demo",
+      "id": "1",
+      "balance": {
+        "RUB": 800,
+        "USD": 20,
+        "EUR": 20,
+        "NTC": 3000
+      }
+    },
+    {
+      "created_at": "2019-11-16T05:28:25.593Z",
+      "login": "ivan@demo.ru",
+      "password": "demo",
+      "id": "2",
+      "netocoins": 100,
+      "balance": {
+        "RUB": 120,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 100
+      }
+    },
+    {
+      "created_at": "2019-5-14T05:28:25.593Z",
+      "login": "petr@demo.ru",
+      "password": "demo",
+      "id": "3",
+      "balance": {
+        "RUB": 20000,
+        "USD": 300,
+        "EUR": 500,
+        "NTC": 50000
+      }
+    },
+    {
+      "created_at": "2020-02-19T17:41:53.072Z",
+      "login": "varlamov@ya.ru",
+      "password": "qwerty",
+      "id": "1gw05obvkk6tlsunl",
+      "balance": {
+        "RUB": 100,
+        "USD": 1000,
+        "EUR": 0,
+        "NTC": 0
+      }
+    }
+  ],
+  "favorites": {
+    "1": {
+      "2": "Ваня дурачок",
+      "3": "Пират Петр",
+      "1gw05obvkk6tlsunl": "Жендос"
+    },
+    "2": {
+      "1": "Чувак, который должен 20к неткойнов",
+      "3": "Партнёр по бизнесу"
+    },
+    "3": {
+      "2": "Важный клиент"
+    },
+    "1gw05obvkk6tlsunl": {
+      "2": "Тот "
+    }
+  }
+}
